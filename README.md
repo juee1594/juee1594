@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juee Parulekar</h1>
+<h1 align="center">Hi 👋, I'm Juee Naik</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
 <h3 align="center">Know / Using</h3>
